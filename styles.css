@@ -1,4 +1,4 @@
-.cabecalho
+.troca troca
 {
     background-color: blanchedalmond;
     height: 300xp;
@@ -7,11 +7,20 @@
 }
 .corpo
 {
-    background-color: aquamarine;
+    background-color: #F5F5F5;
 }
+
 div
 {
-    background-color: black;
+
+    margin-top: 100xp;
+    border: 2xp solid black;
+}
+.itensmenu
+
+}
+
+background-color: black;
     margin-top: 100px;
     border: 2px solid blueviolet;
 }
